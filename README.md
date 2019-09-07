@@ -7,7 +7,7 @@ We use some columns in this data named car_info table and save in SQL as one dat
 3. We used splinter to scrape information and used Beautifulsoup to get the data.
 ![](Images/Splinter.png)
 
-![](Images/soup.png)
+![](Images/soup.png) 
 
 3. We saved the scraping information into a DataFrame named car_web table.
 ![](Images/car_web.png)
